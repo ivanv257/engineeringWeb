@@ -1,0 +1,106 @@
+
+$fontweight: 300;
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+nav {
+    background-color: #ffff;
+
+    .navbar-nav {
+                  padding-top: 30px;
+                  padding-bottom: 30px;
+                }
+
+}
+
+.services {
+  .row {
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    h4 {
+      font-weight: $fontweight;
+      padding-bottom: 25px;
+    }
+    p {
+      font-weight: $fontweight;
+      font-size: 0.95rem;
+      text-align: justify;
+    }
+    img{
+      padding-bottom: 25px;
+    }
+  }
+}
+
+.aboutus{
+    background-image: url("assets/welding.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    height: 70vh;
+    .container{
+      text-align: center;
+      h3 {
+        padding-top: 45px;
+        color: #ffff;
+        font-weight: $fontweight;
+      }
+      p {
+        padding-top: 25px;
+        text-align: justify;
+        color: #ffff;
+
+      }
+      img {
+        padding-top: 10px;
+      }
+    }
+}
+
+.ourwork {
+  .container{
+    text-align: center;
+    h3 {
+      padding-top: 5rem;
+      padding-bottom: 3rem;
+      font-weight: $fontweight;
+    }
+  }
+
+}
+
+.prefooter {
+  background-color: #101010;
+  border-top: 10px #3d3d3d solid;
+  padding-bottom: 30px;
+  h5 {
+    padding-top: 5rem;
+    color: #a3a3a3;
+    font-weight: $fontweight;
+  }
+  p {
+    text-align: justify;
+    color: #a3a3a3;
+    font-size: 0.85rem;
+    a {
+      text-decoration: none;
+      color: #a3a3a3;
+    }
+    a:hover {
+      color: #a3a3a3;
+    }
+  }
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #a3a3a3;
+  }

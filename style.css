@@ -1,0 +1,77 @@
+*, ::after, ::before {
+  box-sizing: border-box; }
+
+nav {
+  background-color: #ffff; }
+  nav .navbar-nav {
+    padding-top: 30px;
+    padding-bottom: 30px; }
+
+.services .row {
+  text-align: center;
+  padding-top: 5rem;
+  padding-bottom: 5rem; }
+  .services .row h4 {
+    font-weight: 300;
+    padding-bottom: 25px; }
+  .services .row p {
+    font-weight: 300;
+    font-size: 0.95rem;
+    text-align: justify; }
+  .services .row img {
+    padding-bottom: 25px; }
+
+.aboutus {
+  background-image: url("assets/welding.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 70vh; }
+  .aboutus .container {
+    text-align: center; }
+    .aboutus .container h3 {
+      padding-top: 45px;
+      color: #ffff;
+      font-weight: 300; }
+    .aboutus .container p {
+      padding-top: 25px;
+      text-align: justify;
+      color: #ffff; }
+    .aboutus .container img {
+      padding-top: 10px; }
+
+.ourwork .container {
+  text-align: center; }
+  .ourwork .container h3 {
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    font-weight: 300; }
+
+.prefooter {
+  background-color: #101010;
+  border-top: 10px #3d3d3d solid;
+  padding-bottom: 30px; }
+  .prefooter h5 {
+    padding-top: 5rem;
+    color: #a3a3a3;
+    font-weight: 300; }
+  .prefooter p {
+    text-align: justify;
+    color: #a3a3a3;
+    font-size: 0.85rem; }
+    .prefooter p a {
+      text-decoration: none;
+      color: #a3a3a3; }
+    .prefooter p a:hover {
+      color: #a3a3a3; }
+
+footer {
+  background-color: black;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #a3a3a3; }
+
+/*# sourceMappingURL=style.css.map */
