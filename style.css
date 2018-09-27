@@ -43,7 +43,8 @@ nav {
       padding-top: 10px; }
 
 .ourwork .container {
-  text-align: center; }
+  text-align: center;
+  padding-bottom: 8rem; }
   .ourwork .container h3 {
     padding-top: 5rem;
     padding-bottom: 3rem;
