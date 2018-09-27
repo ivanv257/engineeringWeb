@@ -2,7 +2,8 @@
   box-sizing: border-box; }
 
 nav {
-  background-color: #ffff; }
+  background-color: #ffff;
+  margin: 0 auto; }
   nav .navbar-nav {
     padding-top: 30px;
     padding-bottom: 30px; }
