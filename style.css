@@ -7,6 +7,9 @@ nav {
   nav .navbar-nav {
     padding-top: 30px;
     padding-bottom: 30px; }
+  nav span {
+    padding-left: 7px;
+    letter-spacing: 2px; }
 
 .fixed-nav nav {
   position: fixed;
