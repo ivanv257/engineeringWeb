@@ -7,6 +7,14 @@ nav {
     padding-top: 30px;
     padding-bottom: 30px; }
 
+.fixed-nav nav {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  background-color: white;
+  opacity: .95; }
+
 .services .row {
   text-align: center;
   padding-top: 5rem;
