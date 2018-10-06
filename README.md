@@ -1,3 +1,4 @@
+<img src="assets\exoulogogear.png"><br />
 # engineeringWeb
 Website for a strap-up organisation specialising in mechanical engineering projects.
 
@@ -11,3 +12,5 @@ https://ivanv257.github.io/engineeringWeb/
 ```
 HTML | CSS | BOOTSTRAP | SASS | JS
 ```
+
+### License
