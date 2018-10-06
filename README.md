@@ -2,8 +2,8 @@
 Website for a strap-up organisation specialising in mechanical engineering projects.
 
 
-<img src="assets\exoulogogear.png">
+<img src="assets\exoulogogear.png"><br />
 
-<strong>Built With</strong>:
+<h3>Built With:</h3>
 
 HTML | CSS | BOOTSTRAP | SASS | JS
