@@ -1,6 +1,9 @@
 # engineeringWeb
-Website for a engineering organisation
+Website for a strap-up organisation specialising in mechanical engineering projects.
 
-<center><img src="assets\exoulogogear.png"></center>
 
-<strong>TOOLS</strong>: HTML | CSS | BOOTSTRAP | SASS | JS
+<img src="assets\exoulogogear.png">
+
+<strong>Built With</strong>:
+
+HTML | CSS | BOOTSTRAP | SASS | JS
