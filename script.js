@@ -24,8 +24,7 @@ $('a[href*="#"]')
   .not('[href="#0"]')
   .click(function(event) {
     if (
-      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
-      &&
+      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') &&
       location.hostname == this.hostname
     ) {
       var target = $(this.hash);
@@ -40,7 +39,7 @@ $('a[href*="#"]')
           if ($target.is(":focus")) {
             return false;
           } else {
-            $target.attr('tabindex','-1');
+            $target.attr('tabindex', '-1');
             $target.focus();
           };
         });
