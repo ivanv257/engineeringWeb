@@ -1,6 +1,6 @@
 # engineeringWeb
 Website for a engineering organisation
 
-<img src="assets\exoulogogear.png">
+<center><img src="assets\exoulogogear.png"></center>
 
 <strong>TOOLS</strong>: HTML | CSS | BOOTSTRAP | SASS | JS
