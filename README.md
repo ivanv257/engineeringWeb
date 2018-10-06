@@ -6,11 +6,8 @@ Website for a strap-up organisation specialising in mechanical engineering proje
 
 https://ivanv257.github.io/engineeringWeb/
 
-<img src="assets\exoulogogear.png"><br />
 
 ### Built with:
 ```
 HTML | CSS | BOOTSTRAP | SASS | JS
 ```
-
-### License
